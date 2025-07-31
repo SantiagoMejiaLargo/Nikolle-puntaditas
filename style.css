@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.navbar-brand img {
+    border-radius: 50%;
+}
+
+nav {
+    background-color: #FFFFFF;
+}
+
+.navbar-toggler {
+    color: #9271B3;
+    border:solid #9271B3;
+
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #448EC7;
+}
+
+.nav-link:hover {
+    text-decoration: underline #9271B3 10px;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    color:#9271B3;
+}
+
+figure {
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: #9271B3;
+}
+
+.card {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#contenido-secundario {
+    background-color: #448EC7;
+}
+
+.container-fluid {
+    margin: 0;
+}
+
+
+
+
+
+
+
