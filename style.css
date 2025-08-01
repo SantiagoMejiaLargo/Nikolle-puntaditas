@@ -5,6 +5,10 @@ body{
     color: #000000;
 }
 
+img {
+    border-radius: 10px;
+}
+
 .navbar-brand img {
     border-radius: 50%;
 }
@@ -53,7 +57,19 @@ h2 {
     margin: 0;
 }
 
+#sobre-mi {
+    background: rgba(48, 139, 208, 0.347);
+}
 
+#tejiendo {
+    font-family: 'Playfair Display', italic;
+    color: #9271B3;
+}
+
+p {
+    font-family: 'Open Sans';
+    color: #1F4698;
+}
 
 
 
